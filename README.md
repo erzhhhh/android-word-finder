@@ -57,9 +57,9 @@ app/
 * Share word definitions on social media 📱💬
 * Add fun animations for transitions ✨
 
+-----
 
-
-Screenshots
+## Screenshots
 
 ![Start](screenshots/photo_start_light.jpeg "Start")
 ![List of words](screenshots/photo_list_light.jpeg "List of words")
