@@ -2,7 +2,7 @@
 
 WordFinder is a fun Android app to search words and explore their details. Perfect for learning Android development and practicing MVVM architecture while enjoying some word exploration! 🧠✨
 
----
+
 
 ## What it does 📝
 
