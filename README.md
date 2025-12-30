@@ -13,7 +13,7 @@ WordFinder is a fun Android app to search words and explore their details. Perfe
 
 Just a small project to practice Android architecture and make your brain happy 🧩😄
 
----
+
 
 ## Features 🌟
 
@@ -22,7 +22,6 @@ Just a small project to practice Android architecture and make your brain happy 
 * Dark mode support 🌙🖤
 * Clean MVVM setup for easy learning 🏗️
 
----
 
 ## Tech stack 🛠️
 
@@ -36,7 +35,7 @@ Just a small project to practice Android architecture and make your brain happy 
 - Glide 🖼️
 - Gradle build system ⚙️
 
----
+
 
 ## Project structure 🗂️
 
@@ -48,7 +47,7 @@ app/
  └─ di/          # dependency injection setup ⚙️
 ```
 
----
+
 
 ## Fun ideas to make it even cooler 🎉
 
@@ -61,7 +60,6 @@ app/
 
 
 Screenshots
------------
 
 ![Start](screenshots/photo_start_light.jpeg "Start")
 ![List of words](screenshots/photo_list_light.jpeg "List of words")
