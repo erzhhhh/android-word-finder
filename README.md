@@ -37,18 +37,6 @@ Just a small project to practice Android architecture and make your brain happy 
 
 
 
-## Project structure 🗂️
-
-```
-app/
- ├─ data/        # word models, API or local database 📚
- ├─ ui/          # Activities/Fragments for list & detail screens 🖥️
- ├─ viewmodel/   # ViewModels managing state & data 🔄
- └─ di/          # dependency injection setup ⚙️
-```
-
-
-
 ## Fun ideas to make it even cooler 🎉
 
 * Add search history ⏳
